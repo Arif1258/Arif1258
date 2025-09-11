@@ -16,31 +16,31 @@
     <tr>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
-        <br>React.js<br><sub>Hook Master</sub>
+        <br>React.js<br>
       </td>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
-        <br>JavaScript<br><sub>===  vs ==</sub>
+        <br>JavaScript<br>
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
-        <br>Node.js<br><sub>Event Loop</sub>
+        <br>Node.js<br>
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
-        <br>Express.js<br><sub>Fast Lane</sub>
+        <br>Express.js<br>
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
-        <br>HTML5<br><sub>Div Soup</sub>
+        <br>HTML5<br>
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
-        <br>CSS3<br><sub>Center Div?</sub>
+        <br>CSS3<br>
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" />
-        <br>Tailwind<br><sub>Class Hero</sub>
+        <br>Tailwind<br>
       </td>
     </tr>
   </table>
@@ -49,15 +49,15 @@
     <tr>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
-        <br>MySQL<br><sub>Relationship Goals</sub>
+        <br>MySQL<br>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
-        <br>MongoDB<br><sub>NoSQL Rebel</sub>
+        <br>MongoDB<br>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
-        <br>PostgreSQL<br><sub>The Elephant</sub>
+        <br>PostgreSQL<br>
       </td>
   </table>
 
