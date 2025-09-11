@@ -48,6 +48,31 @@
       </td>
     </tr>
   </table>
+  <h3>🗄️ Databases (Where Data Goes to Party)</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+        <br>MySQL<br><sub>Relationship Goals</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
+        <br>MongoDB<br><sub>NoSQL Rebel</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
+        <br>PostgreSQL<br><sub>The Elephant</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
+        <br>Firebase<br><sub>Magic Backend</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=redis" width="60" height="60" alt="Redis" />
+        <br>Redis<br><sub>Speed Demon</sub>
+      </td>
+    </tr>
+  </table>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arif1258&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arif1258&theme=dark&hide_border=true)<br/>
