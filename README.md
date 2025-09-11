@@ -63,20 +63,7 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
         <br>PostgreSQL<br><sub>The Elephant</sub>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
-        <br>Firebase<br><sub>Magic Backend</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=redis" width="60" height="60" alt="Redis" />
-        <br>Redis<br><sub>Speed Demon</sub>
-      </td>
-    </tr>
   </table>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arif1258&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arif1258&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arif1258&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arif1258&theme=radical&no-frame=true&no-bg=true&margin-w=4)
