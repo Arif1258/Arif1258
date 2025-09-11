@@ -1,3 +1,7 @@
+![Banner](./github-header-banner.png)
+
+
+
 # 💫 About Me:
 ## 👨‍💻 About Me  <br><br>Hi, I'm **Sk Arif Ahmed** 👋  <br>I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data Structures & Algorithms (Java)** and growing expertise in **DevOps practices**.  <br>I enjoy building scalable web applications, designing efficient database systems, and continuously improving my problem-solving skills.  <br><br>- 🔭 Currently working on **Full-Stack Development Projects**  <br>- 🌱 Learning **Node.js, Express, REST APIs, SQL, and MongoDB**  <br>- ⚡ Exploring **DevOps tools** (Docker, CI/CD, GitHub Actions)  <br>- 💡 Enthusiastic about **clean code, scalable architectures, and system design**  <br>- 💻 Practicing **DSA in Java** to strengthen problem-solving skills  <br>- 🎯 Goal: To become a **Software Engineer** contributing to impactful projects  <br><br>---<br><br>✨ *“Code is like humor. When you have to explain it, it’s bad.”*  <br>
 
