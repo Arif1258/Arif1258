@@ -23,10 +23,6 @@
         <br>JavaScript<br><sub>===  vs ==</sub>
       </td>
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
-        <br>TypeScript<br><sub>Type Safe</sub>
-      </td>
-      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
         <br>Node.js<br><sub>Event Loop</sub>
       </td>
@@ -48,7 +44,7 @@
       </td>
     </tr>
   </table>
-  <h3>🗄️ Databases (Where Data Goes to Party)</h3>
+  <h3>🗄️ Databases</h3>
   <table>
     <tr>
       <td align="center">
@@ -75,7 +71,7 @@
 [![](https://visitcount.itsvg.in/api?id=Arif1258&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <h2>📊 GitHub Stats (The Good, Bad & Ugly)</h2>
+  <h2>📊 GitHub Stats</h2>
   
   <div>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devadvancer&theme=radical" />
