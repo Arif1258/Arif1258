@@ -76,9 +76,6 @@
   <div>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devadvancer&theme=radical" />
   </div>
-  
-  <br/>
-  
   <div>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devadvancer&theme=radical" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devadvancer&theme=radical" />
