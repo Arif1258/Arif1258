@@ -1,75 +1,192 @@
-![Banner](./github-header-banner.png)
+<p align="center">
+  <img src="./github-header-banner.png" alt="Header Banner">
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sk+Arif+Ahmed+%F0%9F%91%8B;A+passionate+Full-Stack+Developer;A+Java+%26+DSA+Enthusiast;A+lifelong+learner." alt="Typing SVG"></a>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/skarifahmed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:skarifahmedofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-# 💫 About Me:
-<br><br>Hi, I'm **Sk Arif Ahmed** 👋  <br>I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data Structures & Algorithms (Java)** and growing expertise in **DevOps practices**.  <br>I enjoy building scalable web applications, designing efficient database systems, and continuously improving my problem-solving skills.  <br><br>- 🔭 Currently working on **Full-Stack Development Projects**  <br>- 🌱 Learning **Node.js, Express, REST APIs, SQL, and MongoDB**  <br>- ⚡ Exploring **DevOps tools** (Docker, CI/CD, GitHub Actions)  <br>- 💡 Enthusiastic about **clean code, scalable architectures, and system design**  <br>- 💻 Practicing **DSA in Java** to strengthen problem-solving skills  <br>- 🎯 Goal: To become a **Software Engineer** contributing to impactful projects  <br><br>---<br><br>✨ *“Code is like humor. When you have to explain it, it’s bad.”*  <br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/skarifahmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skarifahmedofficial@gmail.com) 
-
-# 💻 Tech Stack:
-
-## 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black)
+<br>
 
 ---
 
-## ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white)
+### 💫 About Me
+
+I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data Structures & Algorithms (Java)** and growing expertise in **DevOps practices**. I enjoy building scalable web applications, designing efficient database systems, and continuously improving my problem-solving skills.
+
+- 🔭 Currently crafting awesome **Full-Stack Projects**.
+- 🌱 Mastering **Node.js, Express, REST APIs, SQL, and MongoDB**.
+- 🚀 Exploring **DevOps tools** like Docker, Kubernetes, and CI/CD pipelines.
+- 💡 Enthusiastic about **clean code, scalable architectures, and system design**.
+- 🎯 My goal is to become a **Software Engineer** contributing to impactful projects.
+
+<br>
+
+> ✨ *“Code is like humor. When you have to explain it, it’s bad.”*
+
+<br>
 
 ---
 
-## 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+### 🚀 My Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <strong>🎨 Frontend</strong><br><br>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="40"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="40"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="40"/>
+        </a>
+        <a href="https://reactjs.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="40"/>
+        </a>
+        <a href="https://redux.js.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="40"/>
+        </a>
+        <a href="https://nextjs.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="40" style="background-color: white; border-radius: 5px;"/>
+        </a>
+        <a href="https://getbootstrap.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="40"/>
+        </a>
+        <a href="https://tailwindcss.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" height="40"/>
+        </a>
+        <a href="https://vitejs.dev/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <strong>⚙️ Backend</strong><br><br>
+      <p align="center">
+        <a href="https://nodejs.org/en/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="40"/>
+        </a>
+        <a href="https://expressjs.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="40" style="background-color: white; border-radius: 5px;"/>
+        </a>
+        <a href="https://socket.io/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" width="50" height="40" style="background-color: white; border-radius: 5px;"/>
+        </a>
+        <a href="https://www.prisma.io/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="Prisma" width="50" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <strong>🗄️ Databases</strong><br><br>
+      <p align="center">
+        <a href="https://www.mysql.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="40"/>
+        </a>
+        <a href="https://www.postgresql.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="40"/>
+        </a>
+        <a href="https://www.mongodb.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <strong>📦 DevOps & Cloud</strong><br><br>
+      <p align="center">
+        <a href="https://www.docker.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="40"/>
+        </a>
+        <a href="https://kubernetes.io/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="40"/>
+        </a>
+        <a href="https://aws.amazon.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="40"/>
+        </a>
+        <a href="https://www.jenkins.io/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="40"/>
+        </a>
+        <a href="https://github.com/features/actions">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <strong>🛠️ Tools & Others</strong><br><br>
+      <p align="center">
+        <a href="https://github.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="40" style="background-color: white; border-radius: 5px;"/>
+        </a>
+        <a href="https://www.postman.com/">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="40"/>
+        </a>
+        <a href="https://vercel.com/">
+          <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="50" height="40"/>
+        </a>
+        <a href="https://www.netlify.com/">
+          <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-## 📦 Containerization & CI/CD
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+### 📊 My GitHub Stats
 
----
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Arif1258" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arif1258&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Arif1258" />
+  </a>
+</p>
 
-## ☁️ Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
+<br>
 
----
+### 🏆 GitHub Trophies
 
-## 🛠️ Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies">
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arif1258&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arif1258&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Arif1258&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arif1258&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Arif1258&icon=0&color=0" alt="Visitor Count">
+  </a>
+</p>
