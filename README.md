@@ -107,16 +107,24 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
     </tr>
   </table>
 
-  <h3>📦 Containerization</h3>
+  <h3>⚙️ DevOps & CI/CD</h3>
   <table>
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
-        <br>Docker<br><sub>Ship It Fast</sub>
+        <br>Docker<br><sub>Containerize It</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60" alt="Kubernetes" />
-        <br>Kubernetes<br><sub>Cluster King</sub>
+        <br>Kubernetes<br><sub>Orchestrator</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="60" height="60" alt="Jenkins" />
+        <br>Jenkins<br><sub>The Butler</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60" alt="GitHub Actions" />
+        <br>GH Actions<br><sub>Workflow Wizard</sub>
       </td>
     </tr>
   </table>
@@ -126,11 +134,11 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS" />
-        <br>AWS<br><sub>The Behemoth</sub>
+        <br>AWS<br><sub>Cloud Behemoth</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Vercel" />
-        <br>Vercel<br><sub>Next.js's Home</sub>
+        <br>Vercel<br><sub>Deploy & Chill</sub>
       </td>
        <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="Netlify" />
@@ -210,12 +218,4 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Arif1258&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Arif1258&icon=0&color=0" alt="Visitor Count">
-  </a>
 </p>
