@@ -43,160 +43,158 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
   <img src="https://i.imgur.com/gK2a5kP.png" alt="My Tech Stack Banner">
 </p>
 
-<style>
-  .icon-box {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 10px;
-    padding: 15px;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    text-align: center;
-    width: 110px;
-    height: 110px;
-    background-color: #0d1117;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-  }
-  .icon-box:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
-  }
-  .icon-box img {
-    width: 50px;
-    height: 50px;
-    margin-bottom: 10px;
-  }
-  .icon-box span {
-    font-size: 0.85em;
-    color: #c9d1d9;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-  }
-</style>
-
 <div align="center">
 
-  <h4>🎨 Frontend</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
-      <span>HTML5</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
-      <span>CSS3</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-      <span>JavaScript</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"/>
-      <span>React</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"/>
-      <span>Redux</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" style="background-color: white; padding: 2px; border-radius: 5px;"/>
-      <span>Next.js</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap"/>
-      <span>Bootstrap</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS"/>
-      <span>Tailwind CSS</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite"/>
-      <span>Vite</span>
-    </div>
-  </div>
+<h4>🎨 Frontend</h4>
+<table align="center">
+  <tr align="center">
+    <td align="center" style="padding: 10px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+      </a><br><sub>HTML5</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+      </a><br><sub>CSS3</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+      </a><br><sub>JavaScript</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" />
+      </a><br><sub>React</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://redux.js.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux" />
+      </a><br><sub>Redux</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" style="background-color: white; border-radius: 50%;"/>
+      </a><br><sub>Next.js</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
+      </a><br><sub>Bootstrap</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="Tailwind CSS" />
+      </a><br><sub>Tailwind</sub>
+    </td>
+  </tr>
+</table>
 
-  <h4>⚙️ Backend</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
-      <span>Node.js</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" style="background-color: white; padding: 2px; border-radius: 5px;"/>
-      <span>Express.js</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" style="background-color: white; padding: 2px; border-radius: 5px;"/>
-      <span>Socket.io</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="Prisma"/>
-      <span>Prisma</span>
-    </div>
-  </div>
+<h4>⚙️ Backend</h4>
+<table align="center">
+  <tr align="center">
+    <td align="center" style="padding: 10px;">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+      </a><br><sub>Node.js</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express" style="background-color: white; border-radius: 50%;"/>
+      </a><br><sub>Express</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://socket.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="45" height="45" alt="Socket.io" style="background-color: white; border-radius: 50%;"/>
+      </a><br><sub>Socket.io</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.prisma.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma" />
+      </a><br><sub>Prisma</sub>
+    </td>
+  </tr>
+</table>
 
-  <h4>🗄️ Databases</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
-      <span>MySQL</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"/>
-      <span>PostgreSQL</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
-      <span>MongoDB</span>
-    </div>
-  </div>
+<h4>🗄️ Databases</h4>
+<table align="center">
+  <tr align="center">
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+      </a><br><sub>MySQL</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+      </a><br><sub>PostgreSQL</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+      </a><br><sub>MongoDB</sub>
+    </td>
+  </tr>
+</table>
 
-  <h4>📦 DevOps & Cloud</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
-      <span>Docker</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes"/>
-      <span>Kubernetes</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
-      <span>AWS</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"/>
-      <span>Jenkins</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/>
-      <span>GH Actions</span>
-    </div>
-  </div>
+<h4>📦 DevOps & Cloud</h4>
+<table align="center">
+  <tr align="center">
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+      </a><br><sub>Docker</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" />
+      </a><br><sub>Kubernetes</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
+      </a><br><sub>AWS</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.jenkins.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins" />
+      </a><br><sub>Jenkins</sub>
+    </td>
+     <td align="center" style="padding: 10px;">
+      <a href="https://github.com/features/actions" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions" />
+      </a><br><sub>GH Actions</sub>
+    </td>
+  </tr>
+</table>
 
-  <h4>🛠️ Tools & Others</h4>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" style="background-color: white; padding: 2px; border-radius: 5px;"/>
-      <span>GitHub</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/>
-      <span>Postman</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel"/>
-      <span>Vercel</span>
-    </div>
-    <div class="icon-box">
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify"/>
-      <span>Netlify</span>
-    </div>
-  </div>
+<h4>🛠️ Tools</h4>
+<table align="center">
+  <tr align="center">
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" style="background-color: white; border-radius: 50%;" />
+      </a><br><sub>GitHub</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
+      </a><br><sub>Postman</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://vercel.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="45" height="45" alt="Vercel" />
+      </a><br><sub>Vercel</sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://www.netlify.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="45" height="45" alt="Netlify" />
+      </a><br><sub>Netlify</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br>
