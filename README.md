@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/skarifahmed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:skarifahmedofficial@gmail.com" target="_blank">
+  <a href="mailto:skarifahmedofficial@gmail_com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -39,118 +39,161 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ### 🚀 My Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <strong>🎨 Frontend</strong><br><br>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="40"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="40"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="40"/>
-        </a>
-        <a href="https://reactjs.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="40"/>
-        </a>
-        <a href="https://redux.js.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="40"/>
-        </a>
-        <a href="https://nextjs.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="40" style="background-color: white; border-radius: 5px;"/>
-        </a>
-        <a href="https://getbootstrap.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="40"/>
-        </a>
-        <a href="https://tailwindcss.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" height="40"/>
-        </a>
-        <a href="https://vitejs.dev/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <strong>⚙️ Backend</strong><br><br>
-      <p align="center">
-        <a href="https://nodejs.org/en/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="40"/>
-        </a>
-        <a href="https://expressjs.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="40" style="background-color: white; border-radius: 5px;"/>
-        </a>
-        <a href="https://socket.io/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" width="50" height="40" style="background-color: white; border-radius: 5px;"/>
-        </a>
-        <a href="https://www.prisma.io/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="Prisma" width="50" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <strong>🗄️ Databases</strong><br><br>
-      <p align="center">
-        <a href="https://www.mysql.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="40"/>
-        </a>
-        <a href="https://www.postgresql.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="40"/>
-        </a>
-        <a href="https://www.mongodb.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <strong>📦 DevOps & Cloud</strong><br><br>
-      <p align="center">
-        <a href="https://www.docker.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="40"/>
-        </a>
-        <a href="https://kubernetes.io/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="40"/>
-        </a>
-        <a href="https://aws.amazon.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="40"/>
-        </a>
-        <a href="https://www.jenkins.io/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="40"/>
-        </a>
-        <a href="https://github.com/features/actions">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <strong>🛠️ Tools & Others</strong><br><br>
-      <p align="center">
-        <a href="https://github.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="40" style="background-color: white; border-radius: 5px;"/>
-        </a>
-        <a href="https://www.postman.com/">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="40"/>
-        </a>
-        <a href="https://vercel.com/">
-          <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="50" height="40"/>
-        </a>
-        <a href="https://www.netlify.com/">
-          <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/Arif1258/Arif1258/assets/86326164/ea0cf200-e298-4c33-b248-6d8b02221666" alt="Tech Stack Banner">
+</p>
+
+<style>
+  .icon-box {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #30363d; /* GitHub-like border color */
+    border-radius: 8px;
+    text-align: center;
+    width: 100px; /* Fixed width for consistent look */
+    height: 100px; /* Fixed height for consistent look */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+  }
+  .icon-box:hover {
+    transform: translateY(-5px);
+  }
+  .icon-box img {
+    width: 50px; /* Adjust icon size within the box */
+    height: 50px;
+    margin-bottom: 5px;
+  }
+  .icon-box span {
+    font-size: 0.8em;
+    color: #c9d1d9; /* GitHub-like text color */
+  }
+</style>
+
+<p align="center">
+  <h4>🎨 Frontend</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
+      <span>HTML5</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
+      <span>CSS3</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+      <span>JavaScript</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"/>
+      <span>React</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"/>
+      <span>Redux</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" style="background-color: white; border-radius: 5px;"/>
+      <span>Next.js</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap"/>
+      <span>Bootstrap</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS"/>
+      <span>Tailwind CSS</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite"/>
+      <span>Vite</span>
+    </div>
+  </div>
+
+  <h4>⚙️ Backend</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
+      <span>Node.js</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" style="background-color: white; border-radius: 5px;"/>
+      <span>Express.js</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" style="background-color: white; border-radius: 5px;"/>
+      <span>Socket.io</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="Prisma"/>
+      <span>Prisma</span>
+    </div>
+  </div>
+
+  <h4>🗄️ Databases</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
+      <span>MySQL</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"/>
+      <span>PostgreSQL</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
+      <span>MongoDB</span>
+    </div>
+  </div>
+
+  <h4>📦 DevOps & Cloud</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
+      <span>Docker</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes"/>
+      <span>Kubernetes</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
+      <span>AWS</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"/>
+      <span>Jenkins</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/>
+      <span>GitHub Actions</span>
+    </div>
+  </div>
+
+  <h4>🛠️ Tools & Others</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div class="icon-box">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" style="background-color: white; border-radius: 5px;"/>
+      <span>GitHub</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/>
+      <span>Postman</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel"/>
+      <span>Vercel</span>
+    </div>
+    <div class="icon-box">
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify"/>
+      <span>Netlify</span>
+    </div>
+  </div>
+</p>
 
 <br>
 
