@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/skarifahmed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:skarifahmedofficial@gmail_com" target="_blank">
+  <a href="mailto:skarifahmedofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -40,7 +40,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 ### 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://github.com/Arif1258/Arif1258/assets/86326164/ea0cf200-e298-4c33-b248-6d8b02221666" alt="Tech Stack Banner">
+  <img src="https://i.imgur.com/gK2a5kP.png" alt="My Tech Stack Banner">
 </p>
 
 <style>
@@ -50,30 +50,34 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
     align-items: center;
     justify-content: center;
     margin: 10px;
-    padding: 10px;
-    border: 1px solid #30363d; /* GitHub-like border color */
+    padding: 15px;
+    border: 1px solid #30363d;
     border-radius: 8px;
     text-align: center;
-    width: 100px; /* Fixed width for consistent look */
-    height: 100px; /* Fixed height for consistent look */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    transition: transform 0.2s ease-in-out;
+    width: 110px;
+    height: 110px;
+    background-color: #0d1117;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   }
   .icon-box:hover {
     transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
   }
   .icon-box img {
-    width: 50px; /* Adjust icon size within the box */
+    width: 50px;
     height: 50px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
   }
   .icon-box span {
-    font-size: 0.8em;
-    color: #c9d1d9; /* GitHub-like text color */
+    font-size: 0.85em;
+    color: #c9d1d9;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
   }
 </style>
 
-<p align="center">
+<div align="center">
+
   <h4>🎨 Frontend</h4>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div class="icon-box">
@@ -97,7 +101,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
       <span>Redux</span>
     </div>
     <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" style="background-color: white; border-radius: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" style="background-color: white; padding: 2px; border-radius: 5px;"/>
       <span>Next.js</span>
     </div>
     <div class="icon-box">
@@ -121,11 +125,11 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
       <span>Node.js</span>
     </div>
     <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" style="background-color: white; border-radius: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" style="background-color: white; padding: 2px; border-radius: 5px;"/>
       <span>Express.js</span>
     </div>
     <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" style="background-color: white; border-radius: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.io" style="background-color: white; padding: 2px; border-radius: 5px;"/>
       <span>Socket.io</span>
     </div>
     <div class="icon-box">
@@ -170,14 +174,14 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
     </div>
     <div class="icon-box">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/>
-      <span>GitHub Actions</span>
+      <span>GH Actions</span>
     </div>
   </div>
 
   <h4>🛠️ Tools & Others</h4>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div class="icon-box">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" style="background-color: white; border-radius: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" style="background-color: white; padding: 2px; border-radius: 5px;"/>
       <span>GitHub</span>
     </div>
     <div class="icon-box">
@@ -193,7 +197,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
       <span>Netlify</span>
     </div>
   </div>
-</p>
+</div>
 
 <br>
 
@@ -202,12 +206,8 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Arif1258" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arif1258&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Arif1258" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arif1258&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <br>
