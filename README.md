@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=4a90e2)
 
 <p align="center">
-  <img src="./github-header-banner.png" alt="Header Banner">
+  <img src="./Gemini_Generated_Image_5tsun15tsun15tsu.png" alt="Header Banner">
 </p>
 
 <p align="center">
