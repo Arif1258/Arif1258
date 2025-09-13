@@ -46,31 +46,27 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
-        <br>HTML5<br><sub>Skeleton Crew</sub>
+        <br>HTML5<br><sub>The Skeleton</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
-        <br>CSS3<br><sub>Style Wizard</sub>
+        <br>CSS3<br><sub>The Stylist</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
-        <br>JavaScript<br><sub>Async Awaits</sub>
+        <br>JavaScript<br><sub>The Engine</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
-        <br>React<br><sub>State of Mind</sub>
+        <br>React<br><sub>Component King</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" />
-        <br>Redux<br><sub>Global State</sub>
+        <br>Redux<br><sub>State Master</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
-        <br>Next.js<br><sub>SSR Pro</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" />
-        <br>Tailwind<br><sub>Class Juggler</sub>
+        <br>Next.js<br><sub>Full-Stack React</sub>
       </td>
     </tr>
   </table>
@@ -79,86 +75,110 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
-        <br>Node.js<br><sub>Event Loop</sub>
-      </td>
-      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
-        <br>Express<br><sub>API Architect</sub>
+        <br>Express<br><sub>API Builder</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=socketio" width="60" height="60" alt="Socket.io" />
-        <br>Socket.io<br><sub>Real-Time Talk</sub>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
+        <br>Node.js<br><sub>Runtime Power</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma" />
-        <br>Prisma<br><sub>ORM Power</sub>
+        <br>Prisma<br><sub>ORM Magic</sub>
       </td>
     </tr>
   </table>
 
-  <h3>🗄️ Databases</h3>
+  <h3>🗄️ Database</h3>
   <table>
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
-        <br>MySQL<br><sub>Relationally Sound</sub>
+        <br>MySQL<br><sub>Relational Champ</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
+        <br>MongoDB<br><sub>Document Ace</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
         <br>PostgreSQL<br><sub>The Elephant</sub>
       </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
-        <br>MongoDB<br><sub>Document Dreamer</sub>
-      </td>
     </tr>
   </table>
 
-  <h3>☁️ Cloud & Containerization</h3>
+  <h3>📦 Containerization</h3>
   <table>
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
-        <br>Docker<br><sub>Ship It!</sub>
+        <br>Docker<br><sub>Ship It Fast</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60" alt="Kubernetes" />
-        <br>Kubernetes<br><sub>Orchestrator</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS" />
-        <br>AWS<br><sub>Cloud Nine</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="60" height="60" alt="Jenkins" />
-        <br>Jenkins<br><sub>The Butler</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60" alt="GitHub Actions" />
-        <br>GH Actions<br><sub>Workflow Pro</sub>
+        <br>Kubernetes<br><sub>Cluster King</sub>
       </td>
     </tr>
   </table>
 
-  <h3>🛠️ Tools</h3>
+  <h3>☁️ Cloud</h3>
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
-        <br>GitHub<br><sub>Version Control</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
-        <br>Postman<br><sub>API Tester</sub>
+        <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS" />
+        <br>AWS<br><sub>The Behemoth</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Vercel" />
-        <br>Vercel<br><sub>Deploy & Chill</sub>
+        <br>Vercel<br><sub>Next.js's Home</sub>
+      </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="Netlify" />
+        <br>Netlify<br><sub>Static Specialist</sub>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="Netlify" />
-        <br>Netlify<br><sub>Easy Hosting</sub>
+        <img src="https://skillicons.dev/icons?i=render" width="60" height="60" alt="Render" />
+        <br>Render<br><sub>Simple Deploys</sub>
+      </td>
+    </tr>
+  </table>
+  
+  <h3>🔄 Version Control</h3>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
+        <br>Git<br><sub>Track Changes</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+        <br>GitHub<br><sub>Code's Home</sub>
+      </td>
+    </tr>
+  </table>
+
+  <h3>🛠️ Frameworks & Libraries</h3>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
+        <br>Bootstrap<br><sub>Classic Grids</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" />
+        <br>Tailwind<br><sub>Utility First</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=shadcnui" width="60" height="60" alt="Shadcn/ui" />
+        <br>Shadcn/ui<br><sub>Copy & Paste UI</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=chartjs" width="60" height="60" alt="Chart.js" />
+        <br>Chart.js<br><sub>Data Viz</sub>
+      </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=jest" width="60" height="60" alt="Jest" />
+        <br>Jest<br><sub>Test Runner</sub>
       </td>
     </tr>
   </table>
