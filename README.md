@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=4a90e2)
+![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=FF4C75)
 
 <p align="center">
   <img src="./github-header-banner (1).png" alt="Header Banner">
