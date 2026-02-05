@@ -202,25 +202,3 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arif1258&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<br>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies">
-</p>
-
-<br>
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Arif1258&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
