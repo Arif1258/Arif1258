@@ -214,7 +214,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 <div align="center">
 
-<img src="https://leetcode.card.workers.dev/skarifahmed12588?theme=dark&font=baloo&extension=null" />
+<img width="85%" src="https://leetcard.jacoblin.cool/skarifahmed12588?theme=dark&font=Nunito&ext=contest" />
 
 </div>
 
