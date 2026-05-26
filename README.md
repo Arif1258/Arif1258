@@ -40,8 +40,6 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 <br>
 
----
-
 ## 🚀 My Tech Stack
 
 <div align="center">
@@ -244,6 +242,6 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 </p>
 
----
+
 
 <br>
