@@ -218,6 +218,20 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 </div>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Arif1258">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arif1258&repo=YOUR_REPO_NAME&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/Arif1258">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arif1258&repo=YOUR_SECOND_REPO&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
 ---
 
 <br>
