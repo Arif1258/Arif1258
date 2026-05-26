@@ -204,15 +204,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arif1258&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
 
 ---
 
