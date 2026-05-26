@@ -42,7 +42,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-### 🚀 My Tech Stack
+## 🚀 My Tech Stack
 
 <div align="center">
 
@@ -145,7 +145,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
         <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Vercel" />
         <br>Vercel<br><sub>Deploy & Chill</sub>
       </td>
-       <td align="center" width="100">
+      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="Netlify" />
         <br>Netlify<br><sub>Static Specialist</sub>
       </td>
@@ -155,7 +155,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
       </td>
     </tr>
   </table>
-  
+
   <h3>🔄 Version Control</h3>
   <table>
     <tr>
@@ -189,15 +189,17 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
         <img src="https://skillicons.dev/icons?i=chartjs" width="60" height="60" alt="Chart.js" />
         <br>Chart.js<br><sub>Data Viz</sub>
       </td>
-       <td align="center" width="100">
+      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=jest" width="60" height="60" alt="Jest" />
         <br>Jest<br><sub>Test Runner</sub>
       </td>
     </tr>
   </table>
-  
 
 </div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -222,9 +224,6 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-</div>
-
 <br>
-
 ---
 
