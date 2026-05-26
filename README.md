@@ -198,15 +198,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 </div>
 
----
 
-
-
----
-
-
-
----
 
 ## 📈 Contribution Activity
 
