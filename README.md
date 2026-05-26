@@ -220,9 +220,11 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
+
+---
 
 ---
 
