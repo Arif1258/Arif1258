@@ -216,13 +216,17 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-## 🏆 GitHub Achievements
+
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif1258&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="95%"/>
 
 </div>
+
+---
 
 ---
 
