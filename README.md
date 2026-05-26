@@ -216,40 +216,17 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif1258&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="95%"/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Arif1258&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" 
+  width="95%"
+/>
 
 </div>
-
----
-
----
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif1258&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="95%"/>
-
-</div>
-
----
-
----
-</div>
-
-
-
 
 ---
 
 <br>
----
-
