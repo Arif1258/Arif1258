@@ -226,6 +226,24 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 </div>
 
+## 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/skarifahmed12588/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Arif1258">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/skarifahmed">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
 ---
 
 <br>
