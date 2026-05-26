@@ -241,7 +241,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 </a>
 
 </p>
-## 📦 Repository Metrics
+📦
 
 <div align="center">
 
