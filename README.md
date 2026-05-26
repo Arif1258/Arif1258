@@ -204,11 +204,31 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arif1258&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arif1258&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
 
+<br><br>
 
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif1258&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arif1258/Arif1258/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arif1258/Arif1258/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arif1258/Arif1258/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
 </div>
 
 
