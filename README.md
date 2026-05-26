@@ -195,6 +195,21 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
       </td>
     </tr>
   </table>
+  ## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=afirmae&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afirmae/afirmae/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afirmae/afirmae/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/afirmae/afirmae/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
 
 </div>
 
