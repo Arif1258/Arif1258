@@ -216,17 +216,25 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-## 🐍 Contribution Graph
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arif1258/Arif1258/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arif1258/Arif1258/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arif1258/Arif1258/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif1258&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="95%"/>
+
+</div>
+
+---
 
 ---
 </div>
