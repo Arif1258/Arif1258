@@ -200,19 +200,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&theme=radical&hide_border=true" />
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Arif1258&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif1258&layout=compact&theme=radical&hide_border=true" />
-
-</div>
 
 ---
 
