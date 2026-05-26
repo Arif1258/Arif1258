@@ -214,11 +214,9 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&font=Nunito&ext=heatmap" />
+<img src="https://leetcode.card.workers.dev/skarifahmed12588?theme=dark&font=baloo&extension=null" />
 
 </div>
-
----
 
 ---
 
