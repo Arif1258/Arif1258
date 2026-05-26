@@ -208,7 +208,6 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif1258&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
