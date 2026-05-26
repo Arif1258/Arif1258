@@ -241,7 +241,14 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 </a>
 
 </p>
+## 📦 Repository Metrics
 
+<div align="center">
 
+<img src="https://img.shields.io/github/followers/Arif1258?style=for-the-badge&color=red" />
+<img src="https://img.shields.io/github/stars/Arif1258?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=black" />
+<img src="https://img.shields.io/github/last-commit/Arif1258/Arif1258?style=for-the-badge&color=red" />
+
+</div>
 
 <br>
