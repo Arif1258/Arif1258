@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Arif1258&color=E75480)
 
 <p align="center">
-  <img src="./github-header-banner (1).png" alt="Header Banner">
+  <img src="./2026.png" alt="Header Banner">
 </p>
 
 <p align="center">
