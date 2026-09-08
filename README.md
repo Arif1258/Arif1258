@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=HI+THERE%2C+I'm+SK+ARIF+AHMED+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+JAVA+%26+DSA+ENTHUSIAST;A+LIFELONG+LEARNER." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=HI+THERE%2C+I'm+SK+ARIF+AHMED+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+JAVA+%26+DSA+ENTHUSIAST;A+LIFELONG+LEARNER." alt="Typing SVG">
   </a>
 </p>
 
@@ -40,6 +40,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 - 🧩 400+ problems solved on **LeetCode**
 - 💡 Enthusiastic about clean code, scalable architecture, and system design
 - 🎯 Goal: become a **Software Engineer** contributing to impactful projects
+- ⚡ Fun fact: I've built projects spanning AI agents, fintech compliance tools, and autonomous drone delivery
 
 > ✨ *"Code is like humor. When you have to explain it, it's bad."*
 
@@ -99,6 +100,23 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/Arif1258/BiteDash">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arif1258&repo=BiteDash&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" />
+  </a>
+  <a href="https://github.com/Arif1258">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arif1258&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" />
+  </a>
+</div>
+
+<sub>⚠️ Replace `YOUR_REPO_NAME` (and add more pin cards) with your actual repo names — pin cards need an exact, existing repo to render.</sub>
+
+<br>
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -124,11 +142,39 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
+## 📚 Currently Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws,kafka" />
+</div>
+
+<p align="center">
+Deepening my knowledge of distributed systems, message queues (Kafka, RabbitMQ), and cloud-native deployment patterns.
+</p>
+
+<br>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<br>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif1258&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000" width="60%" />
 </div>
 
 <div align="center">
@@ -152,6 +198,24 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
+
+<br>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+If you find my projects useful, consider supporting future ones:
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+<sub>⚠️ Replace `YOUR_USERNAME` with your actual Buy Me a Coffee handle, or remove this section if not applicable.</sub>
 
 <br>
 
