@@ -156,13 +156,13 @@ Deepening my knowledge of distributed systems, message queues (Kafka, RabbitMQ),
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=tokyonight&row=1&column=7" />
-</div>
-
-<sub>⚠️ This widget (`github-profile-trophy.vercel.app`) is community-run and occasionally goes down or gets rate-limited on GitHub's API — if it's still broken after a refresh/re-push, drop this section or self-host it (fork the <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a> repo to your own Vercel account).</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/CRTDH%20IIT%20Kharagpur-Incubation%20Selected-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3x-Software%20Dev%20Internships-blue?style=for-the-badge" />
+</p>
 
 <br>
 
@@ -170,12 +170,11 @@ Deepening my knowledge of distributed systems, message queues (Kafka, RabbitMQ),
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arif1258&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arif1258&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000" width="48%" />
-</div>
-
-<sub>⚠️ Switched to the <a href="https://github.com/rickstaa/github-readme-stats">rickstaa</a> mirror — the official `github-readme-stats.vercel.app` instance is extremely popular and frequently hits Vercel's free-tier rate limit, which is the usual cause of that card not loading. If this mirror also breaks, the most reliable long-term fix is deploying your own instance (one-click via the repo's README).</sub>
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/Arif1258/Arif1258?style=for-the-badge&color=red&label=Profile%20Repo%20Size" />
+  <img src="https://img.shields.io/github/languages/top/Arif1258/BiteDash?style=for-the-badge&color=red&label=Top%20Language" />
+  <img src="https://img.shields.io/github/created-at/Arif1258?style=for-the-badge&color=red" />
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000" width="60%" />
