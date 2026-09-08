@@ -180,9 +180,7 @@ Deepening my knowledge of distributed systems, message queues (Kafka, RabbitMQ),
   <img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000" width="60%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif1258&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" width="97%" />
-</div>
+
 
 <br>
 
