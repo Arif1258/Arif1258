@@ -159,8 +159,10 @@ Deepening my knowledge of distributed systems, message queues (Kafka, RabbitMQ),
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arif1258&theme=tokyonight&row=1&column=7" />
 </div>
+
+<sub>⚠️ This widget (`github-profile-trophy.vercel.app`) is community-run and occasionally goes down or gets rate-limited on GitHub's API — if it's still broken after a refresh/re-push, drop this section or self-host it (fork the <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a> repo to your own Vercel account).</sub>
 
 <br>
 
@@ -169,9 +171,11 @@ Deepening my knowledge of distributed systems, message queues (Kafka, RabbitMQ),
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arif1258&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif1258&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arif1258&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arif1258&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000" width="48%" />
 </div>
+
+<sub>⚠️ Switched to the <a href="https://github.com/rickstaa/github-readme-stats">rickstaa</a> mirror — the official `github-readme-stats.vercel.app` instance is extremely popular and frequently hits Vercel's free-tier rate limit, which is the usual cause of that card not loading. If this mirror also breaks, the most reliable long-term fix is deploying your own instance (one-click via the repo's README).</sub>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000" width="60%" />
@@ -202,7 +206,6 @@ Deepening my knowledge of distributed systems, message queues (Kafka, RabbitMQ),
 <br>
 
 ---
-
 
 ## 🌐 Connect With Me
 
