@@ -94,6 +94,42 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
       <sub><code>PHP</code> <code>MySQL</code> <code>Figma</code> <code>Visual Paradigm</code></sub>
     </td>
   </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <b>🎬 Movie Rec System</b><br>
+      Recommends movies based on user choices using collaborative filtering and recommendation algorithms.<br>
+      <sub><code>Machine Learning</code> <code>Collaborative Filtering</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🤖 SigmaGPT AI Chat</b><br>
+      An intelligent AI chat platform powered by GPT models with a modern interface.<br>
+      <sub><code>AI</code> <code>GPT</code> <code>LLM</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>📹 SpaceCall Video</b><br>
+      Real-time video conferencing platform built using WebRTC and Socket.io.<br>
+      <sub><code>WebRTC</code> <code>Socket.io</code> <code>Real-Time</code></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <b>🚚 DeliveryHub</b><br>
+      Full-stack food delivery platform enabling users to browse restaurants, place orders, and track deliveries in real time.<br>
+      <sub><code>Full Stack</code> <code>Food Delivery</code> <code>Real-Time</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>📦 Nila-Delivery</b><br>
+      Full-stack delivery management platform that streamlines order processing, shipment tracking, and delivery operations with a modern user experience.<br>
+      <sub><code>Full Stack</code> <code>Logistics</code> <code>Tracking</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>⚡ AetherMonitor</b><br>
+      Website monitoring platform that tracks uptime, performance, and service availability with real-time status updates and incident reporting.<br>
+      <sub><code>Monitoring</code> <code>Uptime</code> <code>Real-Time</code></sub>
+    </td>
+  </tr>
 </table>
 
 <br>
