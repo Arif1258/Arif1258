@@ -44,10 +44,14 @@ I care most about the parts of engineering that don't show up in a demo: how a s
 
 Worked on the backend for an AI-powered mock interview platform, building out RESTful APIs that connected the platform's interview logic to its frontend and AI evaluation layer. This role involved close collaboration with a small team to ship features iteratively, with an emphasis on clean API contracts and reliable data handling.
 
+---
+
 ### Cybersecurity Research Intern — University College Cork, Ireland (Remote)
 **Jun 2025 – Sep 2025**
 
 Built a Flask-based web application for decoding and handling medical imaging data securely, implementing AES and RSA encryption to protect sensitive information end-to-end. This work sat at the intersection of applied cryptography and healthcare data handling — an area with especially low tolerance for error, which shaped how carefully I approached the encryption and data-flow design.
+
+---
 
 ### Software Development Intern — KATSI, Toronto, Canada
 **Sep 2024 – Apr 2025**
@@ -62,7 +66,11 @@ Built a full-stack OFAC (Office of Foreign Assets Control) compliance platform f
 
 **🍔 BiteDash** — A multi-vendor food marketplace and delivery platform supporting multiple restaurant vendors on a single system. Built with React on the frontend and a Node.js/Express backend, using MongoDB for data storage, RabbitMQ for asynchronous order-processing workflows, Redis for caching, and Socket.io for real-time order tracking and live updates between customers, vendors, and delivery agents.
 
+---
+
 **🚚 DeliveryHub** — A full-stack food delivery platform where users can browse restaurants, place orders, and track deliveries in real time. Focused on a smooth end-to-end ordering experience with live status updates as an order moves from placed to delivered.
+
+---
 
 **📦 Nila-Delivery** — A full-stack delivery management platform built to streamline order processing, shipment tracking, and overall delivery operations, with an emphasis on giving operators a clear, modern view into logistics status.
 
@@ -70,7 +78,11 @@ Built a full-stack OFAC (Office of Foreign Assets Control) compliance platform f
 
 **🤖 AI Inventory Management Agent** — An automated agent that manages inventory workflows end-to-end, built using n8n for orchestration, OpenAI for intelligent decision-making, and Airtable as the underlying data store. Designed to reduce manual inventory tracking work by letting the agent handle routine restocking and reporting logic.
 
+---
+
 **💬 SigmaGPT** — An AI chat platform powered by GPT models, wrapped in a modern, user-friendly interface. Built to explore how LLM-backed chat experiences can be made more responsive and pleasant to use.
+
+---
 
 **🎬 Movie Recommendation System** — A recommendation engine that suggests movies based on user preferences, using collaborative filtering and other recommendation algorithms to surface relevant content.
 
@@ -78,7 +90,11 @@ Built a full-stack OFAC (Office of Foreign Assets Control) compliance platform f
 
 **🛡️ OFAC List Checking Platform** — A compliance web application for checking entities against OFAC sanctions lists, with a PHP backend and MySQL database, deployed across both AWS and Hostinger. Figma was used for interface design and Visual Paradigm for system modeling, with all testing performed manually given the absence of a CI/CD pipeline on this project.
 
+---
+
 **📹 SpaceCall** — A real-time video conferencing platform built using WebRTC for peer-to-peer video/audio and Socket.io for signaling and real-time coordination between participants.
+
+---
 
 **⚡ AetherMonitor** — A website monitoring platform that tracks uptime, performance, and overall service availability, with real-time status updates and incident reporting to help catch issues as they happen rather than after the fact.
 
