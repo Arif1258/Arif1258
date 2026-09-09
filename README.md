@@ -1,286 +1,177 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Arif1258&color=E75480)
-
-<p align="center">
-  <img src="./2026.png" alt="Header Banner">
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=HI+THERE%2C+I'm+SK+ARIF+AHMED+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+JAVA+%26+DSA+ENTHUSIAST;A+LIFELONG+LEARNER." alt="Typing SVG">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/skarifahmed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:skarifahmedofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Arif1258" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/u/skarifahmed12588/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-</p>
-
-<br>
-
----
-
-## 💫 About Me
-
-I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data Structures & Algorithms (Java)** and growing expertise in **DevOps practices**. I enjoy building scalable web applications, designing efficient database systems, and continuously improving my problem-solving skills.
-
-- 🎓 B.Tech in Computer Science Engineering, Adamas University (2022 – 2026)
-- 🔭 Currently crafting awesome **Full-Stack Projects**
-- 🌱 Mastering **Node.js, Express, REST APIs, SQL, and MongoDB**
-- 🚀 Exploring **DevOps tools** like Docker, Kubernetes, and CI/CD pipelines
-- 🧩 400+ problems solved on **LeetCode**
-- 💡 Enthusiastic about clean code, scalable architecture, and system design
-- 🎯 Goal: become a **Software Engineer** contributing to impactful projects
-- ⚡ Fun fact: I've built projects spanning AI agents, fintech compliance tools, and autonomous drone delivery
-
-> ✨ *"Code is like humor. When you have to explain it, it's bad."*
-
-<br>
-
----
-
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="30%"><b>Software Development Intern</b><br>Univolve, Kolkata</td>
-    <td width="15%">Jun 2025 – Sep 2025</td>
-    <td>Built RESTful APIs for an AI-powered mock interview platform.</td>
-  </tr>
-  <tr>
-    <td><b>Cybersecurity Research Intern</b><br>University College Cork, Ireland (Remote)</td>
-    <td>Jun 2025 – Sep 2025</td>
-    <td>Built a Flask web app for medical image decoding and secure data handling using AES/RSA encryption.</td>
-  </tr>
-  <tr>
-    <td><b>Software Development Intern</b><br>KATSI, Toronto, Canada</td>
-    <td>Sep 2024 – Apr 2025</td>
-    <td>Built a full-stack OFAC compliance platform.</td>
-  </tr>
-</table>
-
-🚁 Selected for incubation at **CRTDH, IIT Kharagpur** for an autonomous drone delivery platform.
-
-<br>
-
----
-
-## 🛠️ Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>🍔 BiteDash</b><br>
-      Multi-vendor food marketplace & delivery platform.<br>
-      <sub><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>RabbitMQ</code> <code>Redis</code> <code>Socket.io</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>🤖 AI Inventory Management Agent</b><br>
-      Automated inventory workflow agent.<br>
-      <sub><code>n8n</code> <code>OpenAI</code> <code>Airtable</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>🛡️ OFAC List Checking Platform</b><br>
-      Compliance web app deployed on AWS & Hostinger.<br>
-      <sub><code>PHP</code> <code>MySQL</code> <code>Figma</code> <code>Visual Paradigm</code></sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%" valign="top">
-      <b>🎬 Movie Rec System</b><br>
-      Recommends movies based on user choices using collaborative filtering and recommendation algorithms.<br>
-      <sub><code>Machine Learning</code> <code>Collaborative Filtering</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>🤖 SigmaGPT AI Chat</b><br>
-      An intelligent AI chat platform powered by GPT models with a modern interface.<br>
-      <sub><code>AI</code> <code>GPT</code> <code>LLM</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>📹 SpaceCall Video</b><br>
-      Real-time video conferencing platform built using WebRTC and Socket.io.<br>
-      <sub><code>WebRTC</code> <code>Socket.io</code> <code>Real-Time</code></sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%" valign="top">
-      <b>🚚 DeliveryHub</b><br>
-      Full-stack food delivery platform enabling users to browse restaurants, place orders, and track deliveries in real time.<br>
-      <sub><code>Full Stack</code> <code>Food Delivery</code> <code>Real-Time</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>📦 Nila-Delivery</b><br>
-      Full-stack delivery management platform that streamlines order processing, shipment tracking, and delivery operations with a modern user experience.<br>
-      <sub><code>Full Stack</code> <code>Logistics</code> <code>Tracking</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>⚡ AetherMonitor</b><br>
-      Website monitoring platform that tracks uptime, performance, and service availability with real-time status updates and incident reporting.<br>
-      <sub><code>Monitoring</code> <code>Uptime</code> <code>Real-Time</code></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 🚀 Tech Stack
-
 <div align="center">
 
-### 💻 Languages
+<img src="./2026.png" alt="Header Banner" width="100%">
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Arif1258&color=E75480&style=flat-square)](https://github.com/Arif1258)
+
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+SK+Arif+Ahmed;Full-Stack+Developer+%7C+Java+%26+DSA;Building+Scalable%2C+Real-World+Systems" alt="Typing SVG" /></a>
+
+<p>
+  <a href="https://linkedin.com/in/skarifahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:skarifahmedofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Arif1258"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/skarifahmed12588/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+</p>
+
+</div>
+
+<br>
+
+## About Me
+
+Full-stack developer with a strong foundation in **Data Structures & Algorithms (Java)** and hands-on experience across **backend systems, distributed messaging, and cloud deployment**. I like building software that has to actually hold up under load — compliance platforms, real-time marketplaces, AI-driven automation.
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech, Computer Science Engineering — Adamas University (2022–2026) |
+| 🔭 **Focus** | Full-stack systems, distributed architecture, DevOps |
+| 🌱 **Currently Deepening** | Kubernetes, Kafka, AWS, CI/CD pipelines |
+| 🧩 **LeetCode** | 400+ problems solved |
+| 🚁 **Recognition** | Selected for incubation at CRTDH, IIT Kharagpur (autonomous drone delivery) |
+| 🎯 **Goal** | Software Engineer role building high-impact, scalable products |
+
+<br>
+
+## Experience
+
+<table>
+<tr>
+<th align="left">Role</th>
+<th align="left">Company</th>
+<th align="left">Duration</th>
+<th align="left">Focus</th>
+</tr>
+<tr>
+<td><b>Software Development Intern</b></td>
+<td>Univolve, Kolkata</td>
+<td>Jun – Sep 2025</td>
+<td>RESTful APIs for an AI-powered mock interview platform</td>
+</tr>
+<tr>
+<td><b>Cybersecurity Research Intern</b></td>
+<td>University College Cork (Remote)</td>
+<td>Jun – Sep 2025</td>
+<td>Flask app for medical image decoding & secure data handling (AES/RSA)</td>
+</tr>
+<tr>
+<td><b>Software Development Intern</b></td>
+<td>KATSI, Toronto</td>
+<td>Sep 2024 – Apr 2025</td>
+<td>Full-stack OFAC compliance platform</td>
+</tr>
+</table>
+
+<br>
+
+## Featured Projects
+
+**Full-Stack & Marketplace**
+| Project | Description | Stack |
+|---|---|---|
+| 🍔 **BiteDash** | Multi-vendor food marketplace & delivery platform | React · Node.js · MongoDB · RabbitMQ · Redis · Socket.io |
+| 🚚 **DeliveryHub** | Browse restaurants, place orders, track deliveries in real time | Full Stack · Real-Time |
+| 📦 **Nila-Delivery** | Order processing, shipment tracking & delivery ops management | Full Stack · Logistics |
+
+**AI & Automation**
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **AI Inventory Agent** | Automated inventory management workflow | n8n · OpenAI · Airtable |
+| 💬 **SigmaGPT** | AI chat platform powered by GPT models | AI · GPT · LLM |
+| 🎬 **Movie Rec System** | Recommendations via collaborative filtering | Machine Learning |
+
+**Security, Compliance & Infra**
+| Project | Description | Stack |
+|---|---|---|
+| 🛡️ **OFAC List Checker** | Compliance platform deployed on AWS & Hostinger | PHP · MySQL · Figma · Visual Paradigm |
+| 📹 **SpaceCall** | Real-time video conferencing | WebRTC · Socket.io |
+| ⚡ **AetherMonitor** | Uptime & performance monitoring with incident reporting | Monitoring · Real-Time |
+
+<br>
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
 <img src="https://skillicons.dev/icons?i=java,js,php" />
 
-<br><br>
+**Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,materialui,redux" />
 
-### 🎨 Frontend & UI
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,materialui" />
+</td>
+<td valign="top" width="33%">
 
-<br>
-<img src="https://skillicons.dev/icons?i=redux,shadcnui" />
+**Backend & APIs**
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,php,postman" />
 
-<br><br>
+**Data & Messaging**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,kafka,rabbitmq" />
 
-### ⚙️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,php" />
+</td>
+<td valign="top" width="33%">
 
-<br>
-<img src="https://skillicons.dev/icons?i=postman" />
+**Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,jenkins,nginx,linux" />
 
-<br><br>
+**Tools & Monitoring**
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,prometheus,grafana" />
 
-### 🔄 Real-Time, Messaging & Distributed Systems
-<img src="https://skillicons.dev/icons?i=rabbitmq,kafka,socketio" />
-
-<br><br>
-
-### 🗄️ Databases & Caching
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-
-<br><br>
-
-### ☁️ DevOps, Cloud & CI/CD
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,jenkins" />
-
-<br>
-<img src="https://skillicons.dev/icons?i=nginx,linux" />
-
-<br><br>
-
-### 📊 Monitoring & Observability
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-
-<br><br>
-
-### 🛠️ Tools & Development
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-
-<br><br>
-
-### 🤖 AI & Automation
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
-
-<br>
-
----
-
-
-## 📚 Currently Learning
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,aws,kafka" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </div>
 
-<p align="center">
-Deepening my knowledge of distributed systems, message queues (Kafka, RabbitMQ), and cloud-native deployment patterns.
-</p>
-
 <br>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/CRTDH%20IIT%20Kharagpur-Incubation%20Selected-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/3x-Software%20Dev%20Internships-blue?style=for-the-badge" />
-</p>
-
-<br>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/Arif1258/Arif1258?style=for-the-badge&color=red&label=Profile%20Repo%20Size" />
-  <img src="https://img.shields.io/github/languages/top/Arif1258/BiteDash?style=for-the-badge&color=red&label=Top%20Language" />
-  <img src="https://img.shields.io/github/created-at/Arif1258?style=for-the-badge&color=red" />
-</p>
+## Achievements
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000" width="60%" />
+
+![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![CRTDH](https://img.shields.io/badge/CRTDH%20IIT%20Kharagpur-Incubation%20Selected-E75480?style=flat-square)
+![Internships](https://img.shields.io/badge/Internships-3x%20Software%20Dev-blue?style=flat-square)
+
 </div>
-
-
 
 <br>
 
-### 💻 LeetCode Stats
+## GitHub Stats
 
 <div align="center">
-  <img width="85%" src="https://leetcard.jacoblin.cool/skarifahmed12588?theme=dark&font=Nunito&ext=contest" />
+
+<img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=E75480&fire=E75480" width="48%" />
+<img width="46%" src="https://leetcard.jacoblin.cool/skarifahmed12588?theme=dark&font=Nunito&ext=contest" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/repo-size/Arif1258/Arif1258?style=flat-square&color=E75480&label=Profile%20Repo%20Size" />
+<img src="https://img.shields.io/github/languages/top/Arif1258/BiteDash?style=flat-square&color=E75480&label=Top%20Language" />
+<img src="https://img.shields.io/github/created-at/Arif1258?style=flat-square&color=E75480" />
+
 </div>
 
 <br>
 
----
-
-## ⚡ Developer Quote
+## Connect
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<a href="https://leetcode.com/u/skarifahmed12588/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/Arif1258"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a>
+<a href="https://linkedin.com/in/skarifahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/></a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/Arif1258?style=flat-square&color=E75480" />
+<img src="https://img.shields.io/github/stars/Arif1258?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=181717" />
+<img src="https://img.shields.io/github/last-commit/Arif1258/Arif1258?style=flat-square&color=E75480" />
+
 </div>
-
-<br>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://leetcode.com/u/skarifahmed12588/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Arif1258">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/skarifahmed">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Arif1258?style=for-the-badge&color=red" />
-  <img src="https://img.shields.io/github/stars/Arif1258?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=black" />
-  <img src="https://img.shields.io/github/last-commit/Arif1258/Arif1258?style=for-the-badge&color=red" />
-</div>
-
-<br>
