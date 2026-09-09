@@ -107,12 +107,16 @@ Built a full-stack OFAC (Office of Foreign Assets Control) compliance platform f
 
 Primarily working in **Java** (core DSA and backend logic), **JavaScript** (full-stack web development), and **PHP** (backend systems for compliance tooling).
 
+---
+
 ### Frontend & UI
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,materialui" />
 <br>
 <img src="https://skillicons.dev/icons?i=redux,shadcnui" />
 
 Building interfaces primarily in **React**, with **Redux** for state management on more complex applications, styled using **Tailwind**, **Bootstrap**, or **Material UI** depending on the project's design needs.
+
+---
 
 ### Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,php" />
@@ -121,15 +125,21 @@ Building interfaces primarily in **React**, with **Redux** for state management 
 
 Backend services built with **Node.js/Express** or **Java**/**PHP** depending on the project, with **Postman** used throughout for API design, testing, and documentation.
 
+---
+
 ### Real-Time, Messaging & Distributed Systems
 <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,socketio" />
 
 Hands-on experience with **RabbitMQ** and **Kafka** for asynchronous, event-driven workflows, and **Socket.io** for real-time, bidirectional communication in applications like live order tracking and video conferencing.
 
+---
+
 ### Databases & Caching
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 
 Comfortable working with both relational (**MySQL**, **PostgreSQL**) and document-based (**MongoDB**) databases, with **Redis** used for caching and performance optimization on latency-sensitive features.
+
+---
 
 ### DevOps, Cloud & CI/CD
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,jenkins" />
@@ -138,15 +148,21 @@ Comfortable working with both relational (**MySQL**, **PostgreSQL**) and documen
 
 Currently deepening my skills in **Docker** and **Kubernetes** for containerized deployment, **AWS EC2** for cloud hosting, and CI/CD tooling like **GitHub Actions** and **Jenkins** to move toward fully automated deployment pipelines.
 
+---
+
 ### Monitoring & Observability
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
 Exploring **Prometheus** and **Grafana** for system monitoring and observability, informed directly by building AetherMonitor.
 
+---
+
 ### Tools & Development
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 **Git/GitHub** for version control, **Figma** for interface design and prototyping, and **VS Code** as my primary editor.
+
+---
 
 ### AI & Automation
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
