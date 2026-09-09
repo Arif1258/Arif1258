@@ -136,32 +136,68 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-
-
 ## 🚀 Tech Stack
 
 <div align="center">
 
-<h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,bootstrap" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,php" />
 
-<h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,java,php" />
+<br><br>
 
-<h3>🗄️ Database</h3>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" />
+### 🎨 Frontend & UI
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,materialui" />
 
-<h3>☁️ DevOps & Cloud</h3>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,vercel,netlify,render" />
+<br>
+<img src="https://skillicons.dev/icons?i=redux,shadcnui" />
 
-<h3>🔄 Tools & Version Control</h3>
-<img src="https://skillicons.dev/icons?i=git,github,figma,shadcnui,chartjs,jest" />
+<br><br>
+
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,php" />
+
+<br>
+<img src="https://skillicons.dev/icons?i=postman" />
+
+<br><br>
+
+### 🔄 Real-Time, Messaging & Distributed Systems
+<img src="https://skillicons.dev/icons?i=rabbitmq,kafka,socketio" />
+
+<br><br>
+
+### 🗄️ Databases & Caching
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+
+<br><br>
+
+### ☁️ DevOps, Cloud & CI/CD
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,jenkins" />
+
+<br>
+<img src="https://skillicons.dev/icons?i=nginx,linux" />
+
+<br><br>
+
+### 📊 Monitoring & Observability
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+<br><br>
+
+### 🛠️ Tools & Development
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+
+<br><br>
+
+### 🤖 AI & Automation
+<img src="https://skillicons.dev/icons?i=n8n,openai" />
 
 </div>
 
 <br>
 
 ---
+
 
 ## 📚 Currently Learning
 
