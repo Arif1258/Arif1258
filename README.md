@@ -190,7 +190,9 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 <br><br>
 
 ### 🤖 AI & Automation
-<img src="https://skillicons.dev/icons?i=n8n,openai" />
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
