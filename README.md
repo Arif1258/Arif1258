@@ -100,29 +100,7 @@ I'm a passionate **Full-Stack Web Developer** with a strong foundation in **Data
 
 ---
 
-## 📌 Pinned Repositories
 
-
-<div align="center">
-
-  <a href="https://github.com/Arif1258/Drivo-Ride-Booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arif1258&repo=Drivo-Ride-Booking&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" />
-  </a>
-
-  <a href="https://github.com/Arif1258/new-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arif1258&repo=new-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" />
-  </a>
-
-</div>
-
-
-
-
-<sub>⚠️ Replace `YOUR_REPO_NAME` (and add more pin cards) with your actual repo names — pin cards need an exact, existing repo to render.</sub>
-
-<br>
-
----
 
 ## 🚀 Tech Stack
 
