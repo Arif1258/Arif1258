@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Arif1258&color=E75480&style=flat-square)](https://github.com/Arif1258)
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+SK+Arif+Ahmed;Full-Stack+Developer+%7C+Java+%26+DSA;Building+Scalable%2C+Real-World+Systems" alt="Typing SVG" /></a>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=HI+THERE%2C+I'M+SK+ARIF+AHMED;SOFTWARE+DEVELOPER+%7C+JAVA+%26+DSA;BUILDING+SCALABLE%2C+REAL-WORLD SYSTEMS" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://linkedin.com/in/skarifahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
