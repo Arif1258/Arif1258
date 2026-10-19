@@ -227,30 +227,37 @@ A website monitoring platform designed to track uptime, performance, and service
 
 ---
 
-## 📊 GitHub & Coding Statistics
+## 🔥 Coding Activity
 
 <div align="center">
 
-  <h3>GitHub Streak & LeetCode</h3>
+  <img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=E75480&fire=E75480&currStreakLabel=E75480" width="49%" alt="GitHub Streak Stats" />
 
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=E75480&fire=E75480&currStreakLabel=E75480" width="49%" alt="GitHub Streak Stats" />
-    <img src="https://leetcard.jacoblin.cool/skarifahmed12588?theme=dark&font=Nunito&ext=contest" width="49%" alt="LeetCode Statistics" />
-  </p>
+  <img src="https://leetcard.jacoblin.cool/skarifahmed12588?theme=dark&font=Nunito&ext=contest" width="49%" alt="LeetCode Statistics" />
 
-  <h3>Repository Insights</h3>
+</div>
+## 📦 Repository Insights
 
-  <p>
-    <img src="https://img.shields.io/github/repo-size/Arif1258/Arif1258?style=for-the-badge&color=E75480&label=Profile%20Repo%20Size" alt="Profile Repository Size" />
-    <img src="https://img.shields.io/github/languages/top/Arif1258/BiteDash?style=for-the-badge&color=E75480&label=Top%20Language" alt="BiteDash Top Language" />
-    <img src="https://img.shields.io/github/created-at/Arif1258?style=for-the-badge&color=E75480&label=GitHub%20Since" alt="GitHub Account Creation Date" />
-  </p>
+<div align="center">
 
-  <p>
-    <img src="https://img.shields.io/github/followers/Arif1258?style=for-the-badge&color=E75480&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/Arif1258?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=181717&label=Stars" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/last-commit/Arif1258/Arif1258?style=for-the-badge&color=E75480&label=Last%20Commit" alt="Last Profile Repository Commit" />
-  </p>
+  <img src="https://img.shields.io/github/repo-size/Arif1258/Arif1258?style=for-the-badge&color=E75480&label=Profile%20Repo%20Size" alt="Profile Repository Size" />
+
+  <img src="https://img.shields.io/github/languages/top/Arif1258/BiteDash?style=for-the-badge&color=E75480&label=Top%20Language" alt="BiteDash Top Language" />
+
+  <img src="https://img.shields.io/github/created-at/Arif1258?style=for-the-badge&color=E75480&label=GitHub%20Since" alt="GitHub Account Creation Date" />
+
+</div>
+## 🌟 GitHub Community & Activity
+
+<div align="center">
+
+  <img src="https://img.shields.io/github/followers/Arif1258?style=for-the-badge&color=E75480&label=Followers" alt="GitHub Followers" />
+
+  <img src="https://img.shields.io/github/stars/Arif1258?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=181717&label=Stars" alt="GitHub Stars" />
+
+  <img src="https://img.shields.io/github/last-commit/Arif1258/Arif1258?style=for-the-badge&color=E75480&label=Last%20Commit" alt="Last Profile Repository Commit" />
+
+  <br/><br/>
 
   <sub>Consistent learning. Meaningful commits. Better software.</sub>
 
