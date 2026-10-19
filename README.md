@@ -236,6 +236,9 @@ A website monitoring platform designed to track uptime, performance, and service
   <img src="https://leetcard.jacoblin.cool/skarifahmed12588?theme=dark&font=Nunito&ext=contest" width="49%" alt="LeetCode Statistics" />
 
 </div>
+
+---
+
 ## 📦 Repository Insights
 
 <div align="center">
@@ -247,6 +250,9 @@ A website monitoring platform designed to track uptime, performance, and service
   <img src="https://img.shields.io/github/created-at/Arif1258?style=for-the-badge&color=E75480&label=GitHub%20Since" alt="GitHub Account Creation Date" />
 
 </div>
+
+---
+
 ## 🌟 GitHub Community & Activity
 
 <div align="center">
