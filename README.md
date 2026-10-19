@@ -194,9 +194,13 @@ Using **n8n** for workflow automation and the **OpenAI API** to add intelligent 
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![CRTDH](https://img.shields.io/badge/CRTDH%20IIT%20Kharagpur-Incubation%20Selected-E75480?style=flat-square)
-![Internships](https://img.shields.io/badge/Internships-3x%20Software%20Dev-blue?style=flat-square)
+  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="400+ LeetCode Problems" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CRTDH-IIT%20Kharagpur-8B5CF6?style=for-the-badge" alt="CRTDH IIT Kharagpur" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Status-Incubation%20Selected-10B981?style=flat-square" alt="Incubation Selected" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Software%20Development-3%20Internships-2563EB?style=for-the-badge" alt="3 Software Development Internships" />
 
 </div>
 
@@ -206,14 +210,24 @@ Using **n8n** for workflow automation and the **OpenAI API** to add intelligent 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=E75480&fire=E75480" width="48%" />
-<img width="46%" src="https://leetcard.jacoblin.cool/skarifahmed12588?theme=dark&font=Nunito&ext=contest" />
+  <h2>📊 Coding Activity & Statistics</h2>
 
-<br><br>
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=Arif1258&theme=tokyonight&hide_border=true&background=0D1117&ring=E75480&fire=E75480&currStreakLabel=E75480" width="49%" alt="GitHub Streak Stats" />
+    <img src="https://leetcard.jacoblin.cool/skarifahmed12588?theme=dark&font=Nunito&ext=contest" width="49%" alt="LeetCode Statistics" />
+  </p>
 
-<img src="https://img.shields.io/github/repo-size/Arif1258/Arif1258?style=flat-square&color=E75480&label=Profile%20Repo%20Size" />
-<img src="https://img.shields.io/github/languages/top/Arif1258/BiteDash?style=flat-square&color=E75480&label=Top%20Language" />
-<img src="https://img.shields.io/github/created-at/Arif1258?style=flat-square&color=E75480" />
+  <br/>
+
+  <h3>🚀 Repository Insights</h3>
+
+  <p>
+    <img src="https://img.shields.io/github/repo-size/Arif1258/Arif1258?style=for-the-badge&color=E75480&label=Profile%20Repo%20Size" alt="Profile Repository Size" />
+    <img src="https://img.shields.io/github/languages/top/Arif1258/BiteDash?style=for-the-badge&color=E75480&label=Top%20Language" alt="BiteDash Top Language" />
+    <img src="https://img.shields.io/github/created-at/Arif1258?style=for-the-badge&color=E75480&label=GitHub%20Since" alt="GitHub Account Creation Date" />
+  </p>
+
+  <sub>Consistent learning. Meaningful commits. Better software.</sub>
 
 </div>
 
@@ -223,14 +237,30 @@ Using **n8n** for workflow automation and the **OpenAI API** to add intelligent 
 
 <div align="center">
 
-<a href="https://leetcode.com/u/skarifahmed12588/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/Arif1258"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a>
-<a href="https://linkedin.com/in/skarifahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/></a>
+  <h2>🌐 Connect With Me</h2>
 
-<br><br>
+  <p>
+    <a href="https://leetcode.com/u/skarifahmed12588/">
+      <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://github.com/Arif1258">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/skarifahmed">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
-<img src="https://img.shields.io/github/followers/Arif1258?style=flat-square&color=E75480" />
-<img src="https://img.shields.io/github/stars/Arif1258?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=181717" />
-<img src="https://img.shields.io/github/last-commit/Arif1258/Arif1258?style=flat-square&color=E75480" />
+  <br/>
+
+  <h3>📈 GitHub Activity</h3>
+
+  <p>
+    <img src="https://img.shields.io/github/followers/Arif1258?style=for-the-badge&color=E75480&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/Arif1258?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=181717&label=Stars" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/last-commit/Arif1258/Arif1258?style=for-the-badge&color=E75480&label=Last%20Commit" alt="Last Profile Repository Commit" />
+  </p>
+
+  <sub>Let's connect, collaborate, and build something meaningful.</sub>
 
 </div>
