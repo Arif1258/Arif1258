@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Professional Corporate Headshot.png" alt="Header Banner" width="100%">
+<img src="./Modern Developer Portfolio Banner.png" alt="Header Banner" width="100%">
 
 <br>
 
