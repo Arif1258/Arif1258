@@ -1,17 +1,41 @@
 <div align="center">
 
-<img src="./Modern Developer Portfolio Banner.png" alt="Header Banner" width="100%">
+  <img src="./Modern Developer Portfolio Banner.png" alt="SK Arif Ahmed — Developer Banner" width="100%" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Arif1258&color=E75480&style=flat-square)](https://github.com/Arif1258)
+  <br/>
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=180&lines=HI+THERE%2C+I'M+SK+ARIF+AHMED+%F0%9F%91%8B;SOFTWARE+DEVELOPER+%7C+JAVA+%7C+DSA;FULL-STACK+DEVELOPER+%7C+PROBLEM+SOLVER;BUILDING+SCALABLE+AND+RELIABLE+APPLICATIONS;DESIGNING+REAL-WORLD+SOFTWARE+SOLUTIONS;PASSIONATE+ABOUT+CLEAN+CODE+AND+SYSTEM+DESIGN;CONTINUOUSLY+LEARNING+AND+BUILDING+NEW+THINGS" alt="Typing SVG" /></a></h3>
+  <img src="https://komarev.com/ghpvc/?username=Arif1258&color=FFFFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<p>
-  <a href="https://linkedin.com/in/skarifahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:skarifahmedofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Arif1258"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/skarifahmed12588/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-</p>
+  <br/><br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&height=200&lines=HI+THERE%2C+I'M+SK+ARIF+AHMED+%F0%9F%91%8B;SOFTWARE+DEVELOPER+%7C+JAVA+%7C+DSA;FULL-STACK+DEVELOPER+%7C+PROBLEM+SOLVER;BUILDING+SCALABLE+AND+RELIABLE+APPLICATIONS;DESIGNING+REAL-WORLD+SOFTWARE+SOLUTIONS;PASSIONATE+ABOUT+CLEAN+CODE+AND+SYSTEM+DESIGN;ALWAYS+LEARNING%2C+BUILDING+AND+IMPROVING" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <p>
+    <strong>Building meaningful software through clean code, problem-solving, and continuous learning.</strong>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/skarifahmed">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:skarifahmedofficial@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Arif1258">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://leetcode.com/u/skarifahmed12588/">
+      <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+  </p>
+
+  <br/>
+
+  <sub>Java • Data Structures & Algorithms • Full-Stack Development • Software Engineering</sub>
 
 </div>
 
