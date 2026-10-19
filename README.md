@@ -6,8 +6,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=Arif1258&color=0A66C2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
-  <br/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&height=200&lines=HI+THERE%2C+I%27M+SK+ARIF+AHMED+%F0%9F%91%8B;SOFTWARE+DEVELOPER+%7C+JAVA+%7C+DSA;FULL-STACK+DEVELOPER+%7C+PROBLEM+SOLVER;BUILDING+SCALABLE+AND+RELIABLE+APPLICATIONS;DESIGNING+REAL-WORLD+SOFTWARE+SOLUTIONS;PASSIONATE+ABOUT+CLEAN+CODE+AND+SYSTEM+DESIGN;ALWAYS+LEARNING%2C+BUILDING+AND+IMPROVING" alt="Typing SVG" />
   </a>
