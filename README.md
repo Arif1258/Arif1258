@@ -2,8 +2,6 @@
 
 <img src="./Modern Developer Portfolio Banner.png" alt="Header Banner" width="100%">
 
-<br>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=Arif1258&color=E75480&style=flat-square)](https://github.com/Arif1258)
 
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=180&lines=HI+THERE%2C+I'M+SK+ARIF+AHMED+%F0%9F%91%8B;SOFTWARE+DEVELOPER+%7C+JAVA+%7C+DSA;FULL-STACK+DEVELOPER+%7C+PROBLEM+SOLVER;BUILDING+SCALABLE+AND+RELIABLE+APPLICATIONS;DESIGNING+REAL-WORLD+SOFTWARE+SOLUTIONS;PASSIONATE+ABOUT+CLEAN+CODE+AND+SYSTEM+DESIGN;CONTINUOUSLY+LEARNING+AND+BUILDING+NEW+THINGS" alt="Typing SVG" /></a></h3>
